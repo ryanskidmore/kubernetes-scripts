@@ -1,0 +1,3 @@
+[submodule "monitoring/kube-state-metrics"]
+	path = monitoring/kube-state-metrics
+	url = git@github.com:kubernetes/kube-state-metrics.git
